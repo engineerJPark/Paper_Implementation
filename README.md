@@ -4,5 +4,5 @@ This is the repositary that I read papers about Machine Learning and Deep Learni
 
 There's a list that I implemented.
 
-1. VGG16
-2. 
+1. [VGG16](https://github.com/engineerJPark/VGG16-IMPLEMENTATION)
+2. [RESNET]()
